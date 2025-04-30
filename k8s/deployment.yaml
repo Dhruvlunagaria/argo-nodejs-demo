@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: node-app
-          image: dhruv2412/argo-nodejs-demo:v1
+          image: dhruv2412/argo-nodejs-demo:v2
           ports:
             - containerPort: 3000
